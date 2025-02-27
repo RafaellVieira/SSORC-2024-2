@@ -153,7 +153,7 @@ Colaboradores do Projeto
   <tr>
     <td align="center">
       <a href="#">
-        <img src="img/devmika-melo.jpg" width="100px;" alt="Ingrid Melo"/><br>
+        <img src="img/ingrid melo.jpg" width="100px;" alt="Ingrid Melo"/><br>
         <sub>
           <b>Ingrid Melo</b>
         </sub>
