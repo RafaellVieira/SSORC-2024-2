@@ -153,7 +153,7 @@ Colaboradores do Projeto
   <tr>
     <td align="center">
       <a href="#">
-        <img src="n sei oq colocar aq" width="100px;" alt="Ingrid Melo"/><br>
+        <img src="https://github.com/account" width="100px;" alt="Ingrid Melo"/><br>
         <sub>
           <b>Ingrid Melo</b>
         </sub>
