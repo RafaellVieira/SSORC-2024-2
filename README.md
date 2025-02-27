@@ -153,7 +153,7 @@ Colaboradores do Projeto
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/account" width="100px;" alt="Ingrid Melo"/><br>
+        <img src="https://github.com/devmika-melo" width="100px;" alt="Ingrid Melo Picture"/><br>
         <sub>
           <b>Ingrid Melo</b>
         </sub>
