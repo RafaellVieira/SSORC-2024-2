@@ -153,25 +153,17 @@ Colaboradores do Projeto
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Ingrid Melo Profile Picture"/><br>
+        <img src="n sei oq colocar aq" width="100px;" alt="Ingrid Melo"/><br>
         <sub>
-          <b>Fernanda Kipper</b>
+          <b>Ingrid Melo</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Rafael Vieira Picture"/><br>
+        <img src="n sei oq colocar aq" width="100px;" alt="Rafael Vieira"/><br>
         <sub>
-          <b>Elon Musk</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
+          <b>Rafae Vieira</b>
         </sub>
       </a>
     </td>
