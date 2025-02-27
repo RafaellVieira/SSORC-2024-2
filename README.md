@@ -153,7 +153,7 @@ Colaboradores do Projeto
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/devmika-melo" width="100px;" alt="Ingrid Melo Picture"/><br>
+        <img src="img/devmika-melo.jpg" width="100px;" alt="Ingrid Melo"/><br>
         <sub>
           <b>Ingrid Melo</b>
         </sub>
@@ -161,9 +161,9 @@ Colaboradores do Projeto
     </td>
     <td align="center">
       <a href="#">
-        <img src="n sei oq colocar aq" width="100px;" alt="Rafael Vieira"/><br>
+        <img src="img/rafael vieira.jpg" width="100px;" alt="Rafael Vieira"/><br>
         <sub>
-          <b>Rafae Vieira</b>
+          <b>Rafael Vieira</b>
         </sub>
       </a>
     </td>
