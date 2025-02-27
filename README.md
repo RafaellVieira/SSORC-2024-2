@@ -160,7 +160,7 @@ Colaboradores do Projeto
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/RafaellVieira" target="_blank">
         <img src="img/rafael vieira.jpg" width="100px;" alt="Rafael Vieira"/><br>
         <sub>
           <b>Rafael Vieira</b>
