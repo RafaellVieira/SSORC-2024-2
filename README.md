@@ -145,9 +145,35 @@ sudo tail -f /var/log/squid/access.log
 _Exibe as últimas linhas do arquivo de log de acessos do Squid_
 
 
-<h2 id="contribuintes">Contribuintes🚀</h2>
+<h2 id="colab">🤝 Collaboradores</h2>
 
+Colaboradores do Projeto
 
-
-
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Ingrid Melo Profile Picture"/><br>
+        <sub>
+          <b>Fernanda Kipper</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Rafael Vieira Picture"/><br>
+        <sub>
+          <b>Elon Musk</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Steve Jobs</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
