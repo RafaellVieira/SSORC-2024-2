@@ -83,7 +83,7 @@ acl Safe_ports port 443
 acl CONNECT method CONNECT
 
 # Permite que o método CONNECT seja utilizado somente para a porta SSL configurada anteriormente.
-http_access allow CONNECT SSL_port
+http_access allow CONNECT SSL_ports
 ```
 
 ## 📌 Configuração de ACLs no Squid
